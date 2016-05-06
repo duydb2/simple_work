@@ -1,0 +1,7 @@
+/build
+/venv
+/dist
+/simple_work.egg-info
+
+
+*.pyc
